@@ -1,5 +1,5 @@
 getwd()
-setwd("/Users/mayanewman/Desktop/Milkweed\ Research\ Summer\ 2021")
+
 
 #change this setwd as well
 
